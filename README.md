@@ -1,7 +1,7 @@
 <h1 align="center"> Hey, I'm Avnish Yadav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=750&lines=Aspiring Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Systems;Break+%7C+Fix+%7C+Secure" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=750&lines=Aspiring+ Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+Systems;Break+%7C+Fix+%7C+Secure" />
 </p>
 
 <p align="center">
