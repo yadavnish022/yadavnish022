@@ -31,25 +31,16 @@
 └─$ cat about.txt
 
 ╔══════════════════════════════════════════════════════════════╗
-║                        AVNISH YADAV                         ║
-║         Aspiring Full Stack Developer & SOC Analyst         ║
+║                        AVNISH YADAV                          ║
+║         Aspiring Full Stack Developer & SOC Analyst          ║
 ╠══════════════════════════════════════════════════════════════╣
-║  🌍  Location     : India 🇮🇳                               ║
-║  🔭  Working On   : Farmer-to-Market Price Predictor        ║
-║  📚  Learning     : SOC Operations, Vulnerability Research  ║
-║  🎯  Hobby        : CTFs, TryHackMe, HackTheBox             ║
-║  💡  Philosophy   : Build it. Break it. Secure it. Repeat.  ║
+║   Location     : India 🇮🇳                                    ║
+║   Working On   : Farmer-to-Market Price Predictor            ║
+║   Learning     : SOC Operations, Vulnerability Research      ║
+║   Hobby        : CTFs, TryHackMe, HackTheBox                 ║
+║   Philosophy   : Build it. Break it. Secure it. Repeat.      ║
 ╚══════════════════════════════════════════════════════════════╝
 
-┌──(avnish㉿kali)-[~/profile]
-└─$ systemctl status skills
-
-● react.service     — Active (running) ✓
-● nodejs.service    — Active (running) ✓
-● mongodb.service   — Active (running) ✓
-● linux.service     — Active (running) ✓
-● cybersec.service  — Active (running) ✓
-● ctf-solver.timer  — Active (waiting) ⚔️
 ```
 
 ---
