@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-blueviolet?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=0d1117"/> <img src="https://komarev.com/ghpvc/?username=yadavnish022&color=64ffda&style=for-the-badge&label=+&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-blueviolet?style=for-the-badge&logo=googleanalytics&logoColor=black&labelColor=0d1117"/> <img src="https://komarev.com/ghpvc/?username=yadavnish022&color=64ffda&style=for-the-badge&label=+&labelColor=0d1117"/>
 <img src="https://img.shields.io/github/followers/yadavnish022?label=FOLLOWERS&style=for-the-badge&color=64ffda&labelColor=0d1117&logo=github"/>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=white"/>
 
